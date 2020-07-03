@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 1234,
+  "username": "cinnamon",
+  "password": "cinnamon",
+  "database": "cinnamon",
+  "entities": ["dist/**/*.model{.ts,.js}"],
+  "synchronize": true
+}
